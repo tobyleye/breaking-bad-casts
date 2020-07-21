@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import CharacterGrid from "./components/CharacterGrid";
 import Search from "./components/Search";
 
-import "./styles.css";
+import "./styles.scss";
 
 const BASE_URL = "https://www.breakingbadapi.com/api";
 
